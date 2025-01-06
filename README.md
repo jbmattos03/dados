@@ -1,2 +1,2 @@
 # dados
-Pequenos códigos de análise/exploração de dados com Python.
+Pequenos códigos de exploração de dados e ML com Python.
